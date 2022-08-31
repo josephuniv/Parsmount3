@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parsmount3", "Parsmount3\Parsmount3.csproj", "{079CC6D6-10A6-4029-9475-14E82A43FFEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{079CC6D6-10A6-4029-9475-14E82A43FFEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{079CC6D6-10A6-4029-9475-14E82A43FFEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{079CC6D6-10A6-4029-9475-14E82A43FFEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{079CC6D6-10A6-4029-9475-14E82A43FFEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEE25346-E8D2-4166-9051-F8E9379FFEAE}
+	EndGlobalSection
+EndGlobal
